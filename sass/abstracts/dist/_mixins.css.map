@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_mixins.scss"],"sourcesContent":["@mixin clearfix {\r\n  &::after {\r\n    content: '';\r\n    display: table;\r\n    clear: both;\r\n  }\r\n}\r\n"],"file":"_mixins.css"}
