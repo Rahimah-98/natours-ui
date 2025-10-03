@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["composition.scss"],"sourcesContent":[".composition {\r\n  position: relative;\r\n\r\n  &__photo {\r\n    width: 55%;\r\n  }\r\n}\r\n"],"file":"composition.css"}
