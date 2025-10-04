@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_card.scss"],"sourcesContent":[".card {\r\n  perspective: 150rem;\r\n  -ms-perspective: 150rem;\r\n\r\n  &__side {\r\n    background: orangered;\r\n    height: 50rem;\r\n    transition: all 0.8s;\r\n  }\r\n\r\n  &:hover &__side {\r\n    transform: rotateY(180deg);\r\n  }\r\n}\r\n"],"file":"_card.css"}

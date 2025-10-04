@@ -1,0 +1,2 @@
+.card{perspective:150rem;-ms-perspective:150rem}.card__side{background:#ff4500;height:50rem;transition:all .8s}.card:hover .card__side{transform:rotateY(180deg)}
+/*# sourceMappingURL=_card.min.css.map */
