@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_bg-video.scss"],"sourcesContent":[".bg-video {\r\n  position: absolute;\r\n  top: 0;\r\n  left: 0;\r\n  height: 100%;\r\n  width: 100%;\r\n  z-index: -1;\r\n  opacity: 0.15;\r\n  overflow: hidden;\r\n\r\n  &__content {\r\n    height: 100%;\r\n    width: 100%;\r\n    object-fit: cover;\r\n  }\r\n}\r\n"],"file":"_bg-video.css"}
