@@ -1,0 +1,1 @@
+{"version":3,"sources":["_form.scss"],"names":[],"mappings":"AAAA,aACE,cAAe,KAGjB,aACE,UAAW","file":"_form.min.css","sourcesContent":[".form {\r\n  &__group {\r\n    margin-bottom: 2rem;\r\n  }\r\n\r\n  &__input {\r\n    font-size: 1.5rem;\r\n  }\r\n\r\n  &__label {\r\n  }\r\n}\r\n"]}
