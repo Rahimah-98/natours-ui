@@ -1,0 +1,1 @@
+{"version":3,"sources":["_popup.scss"],"names":[],"mappings":"AAAA,OACE,OAAQ","file":"_popup.min.css","sourcesContent":[".popup {\r\n  height: 100vh;\r\n\r\n  &__content {\r\n  }\r\n}\r\n"]}
