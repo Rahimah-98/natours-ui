@@ -1,2 +1,25 @@
-/* No CSS */
+/*
+0 - 600px:      phone
+600 - 900px:      tablet
+900 - 1200px:     small laptop
+1200 - 1800px:    laptop
+1800px + :       large laptop / tv
+*/
+/*
+$breakpoint; argument choices:
+- phone
+- tab-port
+- tab-land
+- big-desktop
+
+ORDER: Base + Typography layout + grid > page layout > components 
+
+16px = 1em
+600px = 37.5em
+900px = 56.25em
+1200px = 75em
+1800px = 112.5em
+
+*/
+
 /*# sourceMappingURL=_mixins.css.map */
